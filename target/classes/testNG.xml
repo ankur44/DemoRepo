@@ -2,7 +2,7 @@
 
 	<test name = "Test Maven Testing">
 		<packages>
-			<package name = "com.qa.tests.*"/>
+			<package name = "com.qa.test.*"/>
 		</packages>
 		
 		
